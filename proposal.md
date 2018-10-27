@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 60 Project Proposal for the Speedy Order 5000
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -35,7 +35,7 @@ Describe at a high level a program that could solve that problem.
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+Speedy Order 5000 *someone change this cuz it makes bad lol*
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
@@ -43,16 +43,30 @@ Describe at a high level a program that could solve that problem.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+The program would take in orders for people at a restaurant 
 
-
+| Table Number:   |   int or String     |
+| Order:          |   String            |
+| Priority:       |   int     |
+| Cost:           |   double  |
+| Calculated Tip: |   double  |
+| Status:         |   String  | 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
-
+We would most likely use a simple text GUI. 
+Welcome Screen
+Input Screen
+Orders Screen
+Output Screen
+Inventory Screen(?)
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
+Welcome Screen - gives options, and an explanation
+Input Screen - shows input table
+Orders Screen - shows list of orders, and their values
+Output Screen - if order is ready or priority is >1 (?) then have it appear as done or need to be done
+Inventory Screen - list of all items in backroom, needs to be instantiated. 
 
 Name each interface or class and briefly describe its function or purpose.
 
