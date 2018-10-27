@@ -24,7 +24,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
   
  Caution: You are not being asked to implement this program, at least not yet. 
  We just want your group to make a proposal or pitch for your program.
- 
+
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
@@ -69,6 +69,15 @@ Output Screen - if order is ready or priority is >1 (?) then have it appear as d
 Inventory Screen - list of all items in backroom, needs to be instantiated. 
 
 Name each interface or class and briefly describe its function or purpose.
+
+- POS: the main class that deals with executingt he point of sale (POS) system
+- TestPOS: JUnit test case class for the POS class 
+- AVLTree: we need a rebalancing tree to store the customer oders
+- AVLTreeADT: interface for AVL tree
+- TestAVLTree: JUnit test case class for the AVLTree class
+- Customer: class to be used to create cutomer objects
+- CustomerADT: interface for the Customer class
+- TestCustomer: JUnit test case class for the Customer class 
 
 
 ## Edit and Submit this file and any figures referenced by this document.
