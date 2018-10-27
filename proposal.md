@@ -29,7 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
+Brief ly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
@@ -37,6 +37,7 @@ Describe at a high level a program that could solve that problem.
 1. Name: Give your project proposal a name (and edit the top line of this file)
 Speedy Order 5000 *someone change this cuz it makes bad lol*
 
+##Instafeed # another terrible name that goes on the list
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
