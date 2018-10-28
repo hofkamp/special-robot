@@ -48,10 +48,10 @@ The program would take in orders for people at a restaurant
 
 | Table Number:   |   int or String     |
 | Order:          |   String            |
-| Priority:       |   int     |
-| Cost:           |   double  |
-| Calculated Tip: |   double  |
-| Status:         |   String  | 
+| Priority:       |   int               |
+| Cost:           |   double            |
+| Calculated Tip: |   double            |
+| Status:         |   String            | 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 We would most likely use a simple text GUI. 
