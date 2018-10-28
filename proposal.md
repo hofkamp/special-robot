@@ -46,8 +46,9 @@ Speedy Order 5000 *someone change this cuz it makes bad lol*
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 The program would take in orders for people at a restaurant 
 
-| Table Number:   |   int or String     |
+|                 |   User Input        |
 |-----------------|---------------------|
+| Table Number:   |   int or String     |
 | Order:          |   String            |
 | Priority:       |   int               |
 | Cost:           |   double            |
