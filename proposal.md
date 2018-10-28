@@ -47,6 +47,7 @@ Speedy Order 5000 *someone change this cuz it makes bad lol*
 The program would take in orders for people at a restaurant 
 
 | Table Number:   |   int or String     |
+|-----------------|---------------------|
 | Order:          |   String            |
 | Priority:       |   int               |
 | Cost:           |   double            |
