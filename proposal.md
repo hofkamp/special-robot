@@ -63,7 +63,7 @@ We would most likely use a simple text GUI with the following screens:
  - Output Screen
  - Inventory Screen
 
-1. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
 | Screen           | Discription                                                  |
 | ---------------- | ------------------------------------------------------------ |
