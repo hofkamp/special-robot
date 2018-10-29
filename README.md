@@ -11,7 +11,7 @@
        * GitHub username 2:dmportugal        name 2: David Portugal
        * GitHub username 3:PrayagBhakar      name 3: Prayag Bhakar
        * GitHub username 4:BourgeoisLenin    name 4: Jack Zhou
-   * When did you complete this exercise? 10/27/18
+   * When did you complete this exercise? 10/27 - 10/29/18
    * How long did it take your team to complete this exercise? About 2 hours
 
 ## Table of Contents
