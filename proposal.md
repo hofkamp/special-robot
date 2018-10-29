@@ -37,14 +37,16 @@ Describe at a high level a program that could solve that problem.
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
+#**The Speedy Order 5000**
+
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 The output should show the order status which includes payment status, estimated time, what your order is.
+
 |                   |  Text Output                                                                           |
 |-------------------|----------------------------------------------------------------------------------------|
 | Payment Status:   |   String  ( payment processed approved, declined or processing)                        |
 | Estimated Time:   |   String  ( expected wait time and estimated finish time printed in formatted string)  |
 | Content of Order: |   String  ( a visualized list of your order)                                           |
-
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
