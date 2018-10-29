@@ -22,6 +22,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
   
   ** comprehensive testing of individual units
   
+
  Caution: You are not being asked to implement this program, at least not yet. 
  We just want your group to make a proposal or pitch for your program.
 
@@ -35,9 +36,6 @@ Describe at a high level a program that could solve that problem.
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-Speedy Order 5000 *someone change this cuz it makes bad lol*
-
- Instafeed //another terrible name that goes on the list
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
@@ -53,23 +51,27 @@ The program would take in orders for people at a restaurant
 | Priority:       |   int               |
 | Cost:           |   double            |
 | Calculated Tip: |   double            |
-| Status:         |   String            | 
+| Status:         |   String            |
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-We would most likely use a simple text GUI. 
-Welcome Screen
-Input Screen
-Orders Screen
-Output Screen
-Inventory Screen(?)
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+We would most likely use a simple text GUI with the following screens:
 
-Welcome Screen - gives options, and an explanation
-Input Screen - shows input table
-Orders Screen - shows list of orders, and their values
-Output Screen - if order is ready or priority is >1 (?) then have it appear as done or need to be done
-Inventory Screen - list of all items in backroom, needs to be instantiated. 
+ - Welcome Screen
+ - Input Screen
+ - Orders Screen
+ - Output Screen
+ - Inventory Screen
+
+1. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+
+| Screen           | Discription                                                  |
+| ---------------- | ------------------------------------------------------------ |
+| Welcome Screen   | gives options, and an explanation                            |
+| Input Screen     | shows input table                                            |
+| Orders Screen    | shows list of orders, and their values                       |
+| Output Screen    | if order is ready or priority is >1 (?) then have it appear as done or need to be done |
+| Inventory Screen | list of all items in backroom, needs to be instantiated.     |
 
 Name each interface or class and briefly describe its function or purpose.
 
