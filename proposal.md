@@ -30,8 +30,10 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Brief ly describe a problem that your team would like to solve.  
+Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
+
+We want to implement a faster, more efficient ordering system applicable to restaurants or other vendors that potentially experience problems with taking/completing orders in inefficient ways. The Speedy Order 5000 will effectively take in orders and store all relevant data to that order in the same place such as estimated time to complete and the priority. Our AVL implementation will serve as the system in which we store the customer orders and remove them once they are completed. By implementing an AVL tree, we are trying to improve the average time it takes to take an order and improve the effectiveness in which a restaurant can serve its customers.
 
 ## Questions to answer for Exercise #2
 
@@ -83,9 +85,9 @@ We would most likely use a simple text GUI with the following screens:
 
 Name each interface or class and briefly describe its function or purpose.
 
-- POS: the main class that deals with executingt he point of sale (POS) system
+- POS: the main class that deals with executing the point of sale (POS) system
 - TestPOS: JUnit test case class for the POS class 
-- AVLTree: we need a rebalancing tree to store the customer oders
+- AVLTree: we need a rebalancing tree to store the customer orders
 - AVLTreeADT: interface for AVL tree
 - TestAVLTree: JUnit test case class for the AVLTree class
 - Customer: class to be used to create cutomer objects
